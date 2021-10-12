@@ -1,0 +1,7 @@
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\bin\Debug\SEHACOLADO.exe.config
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\bin\Debug\SEHACOLADO.exe
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\bin\Debug\SEHACOLADO.pdb
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\obj\Debug\SEHACOLADO.csproj.AssemblyReference.cache
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\obj\Debug\SEHACOLADO.csproj.CoreCompileInputs.cache
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\obj\Debug\SEHACOLADO.exe
+C:\Users\anderson\source\repos\SEHACOLADO\SEHACOLADO\obj\Debug\SEHACOLADO.pdb
